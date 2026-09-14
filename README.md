@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Olá! Eu sou o Lucas
 
-<!--
-**LucasCrvlhoo/LucasCrvlhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação | 💻 Apaixonado por tecnologia | 🚀 Em constante aprendizado
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação e estou construindo minha jornada na área de tecnologia. Atualmente, estou focado em desenvolver uma base sólida em programação, algoritmos, lógica e pensamento computacional, colocando meus conhecimentos em prática através de projetos e estudos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é evoluir constantemente como desenvolvedor, explorar diferentes áreas da tecnologia e, no futuro, trabalhar com soluções que unam software, tecnologia e Inteligência Artificial.
+
+🚀 Atualmente estudando
+🧠 Lógica de programação
+💻 Linguagem C
+🔢 Algoritmos
+🗄️ Banco de dados
+🔀 Git e GitHub
+🤖 Inteligência Artificial
+🛠️ Tecnologias e ferramentas
+
+Linguagens
+
+C
+Python
+
+Ferramentas
+
+VsCode
+Git
+GitHub
+
+📚 Formação
+
+🎓 Ciência da Computação
+Graduando
+
+Atualmente desenvolvendo conhecimentos em programação, algoritmos, banco de dados e fundamentos da computação.
+
+🎯 Objetivos
+📈 Evoluir constantemente na programação
+🧩 Desenvolver projetos para colocar meus conhecimentos em prática
+💻 Aprender novas linguagens e tecnologias
+🤖 Aprofundar meus conhecimentos em Inteligência Artificial
+🚀 Construir um portfólio sólido
+👨‍💻 Conquistar minha primeira oportunidade profissional na área de tecnologia
