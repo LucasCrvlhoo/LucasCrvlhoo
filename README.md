@@ -31,4 +31,9 @@ Graduando
 💻 Aprender novas linguagens e tecnologias
 🤖 Aprofundar meus conhecimentos em Inteligência Artificial
 🚀 Construir um portfólio sólido
-👨‍💻 Conquistar minha primeira oportunidade profissional na área de tecnologia
+👨‍💻 Conquistar minha primeira oportunidade profissional na área de tecnologia<br><br>
+
+## 🔗 Social Midias
+@LucasCrvlhoo_
+
+
