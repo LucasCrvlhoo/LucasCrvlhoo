@@ -21,7 +21,7 @@ GitHub;  <br>
 Graduando em:
 
 🎓 Ciência da Computação
-Graduando
+Graduando - 1º Período
 
 <h2>Atualmente desenvolvendo conhecimentos em programação, algoritmos, banco de dados e fundamentos da computação.</h2>
 
