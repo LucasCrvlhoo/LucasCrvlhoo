@@ -1,37 +1,29 @@
-👋 Olá! Eu sou o Lucas
+<h1>👋 Olá! Eu sou o Lucas</h1>
 
-🎓 Estudante de Ciência da Computação | 💻 Apaixonado por tecnologia | 🚀 Em constante aprendizado
+<h2>🎓 Estudante de Ciência da Computação | 🚀 Em constante aprendizado</h2> <br>
+<h3>Sou estudante de Ciência da Computação e estou construindo minha jornada na área de tecnologia. Atualmente, estou focado em desenvolver uma base sólida em programação, algoritmos, lógica e pensamento computacional, colocando meus conhecimentos em prática através de projetos e estudos.</h3>
 
-Sou estudante de Ciência da Computação e estou construindo minha jornada na área de tecnologia. Atualmente, estou focado em desenvolver uma base sólida em programação, algoritmos, lógica e pensamento computacional, colocando meus conhecimentos em prática através de projetos e estudos.
+<h3>Meu objetivo é evoluir constantemente como desenvolvedor, explorar diferentes áreas da tecnologia e, no futuro, trabalhar com soluções que unam software, tecnologia e Inteligência Artificial.</h3>
 
-Meu objetivo é evoluir constantemente como desenvolvedor, explorar diferentes áreas da tecnologia e, no futuro, trabalhar com soluções que unam software, tecnologia e Inteligência Artificial.
+<br>
+Lógica de programação; <br>
+Linguagem C;<br>
+Linguagem Python;<br>
+Banco de dados; <br>
+Inteligência Artificial; <br> <br>
+Tecnologias e ferramentas; <br>
 
-🚀 Atualmente estudando
-🧠 Lógica de programação
-💻 Linguagem C
-🔢 Algoritmos
-🗄️ Banco de dados
-🔀 Git e GitHub
-🤖 Inteligência Artificial
-🛠️ Tecnologias e ferramentas
 
-Linguagens
+VsCode;
+Git;
+GitHub;  <br>
 
-C
-Python
-
-Ferramentas
-
-VsCode
-Git
-GitHub
-
-📚 Formação
+Graduando em:
 
 🎓 Ciência da Computação
 Graduando
 
-Atualmente desenvolvendo conhecimentos em programação, algoritmos, banco de dados e fundamentos da computação.
+<h2>Atualmente desenvolvendo conhecimentos em programação, algoritmos, banco de dados e fundamentos da computação.</h2>
 
 🎯 Objetivos
 📈 Evoluir constantemente na programação
